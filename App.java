@@ -3,9 +3,10 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /**
- * Hello world!
+ * Hello world hello amira !
  *
  */
+// modification pour tester le polling
 public class App {
     public static void main( String[] args )
     {
